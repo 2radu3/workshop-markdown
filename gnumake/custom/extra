@@ -1,0 +1,3 @@
+clean:
+        @echo "[EXTRA] Cleaning temporary objects from extra.mk..."
+        rm -f *.o
